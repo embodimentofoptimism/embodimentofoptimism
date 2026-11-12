@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1541413208877834252/1568094250027978752/Untitled10_20261106103920__fliter--purple-warm__channel--red__mode--normal_1.png?ex=6aee9112&is=6aed3f92&hm=03ab517441a63c74bafda98c77c327e419a55cff1d9ee7c554f93edc5d510e1a&" />
+  <img src="https://cdn.discordapp.com/attachments/1541413208877834252/1570245238767882361/image-75d8-gradientmap.pro.png?ex=6af66456&is=6af512d6&hm=a2050a96487cfff70761d7b8bbaabbdc3bce62c04fdf84333c96b8ba9daa3238&" width=423 height=300 />
 </p>
 
 
