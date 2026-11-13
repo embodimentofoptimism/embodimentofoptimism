@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1541413208877834252/1568629737385889802/sanssweep.gif?ex=6af083c9&is=6aef3249&hm=b7dbd0801eea5bbec5dbca4c8bb150e10912db463e433eaa0e12ae6dfbead755&" />
+<img src="https://cdn.discordapp.com/attachments/1541413208877834252/1568629737385889802/sanssweep.gif?ex=6af7c409&is=6af67289&hm=2510315771a976f7f597fb8846400789f3a39ed3a3f8b2375faa952cebcd95c8&" />
 </p>
 
 <p align="center">
