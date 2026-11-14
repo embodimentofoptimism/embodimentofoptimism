@@ -19,5 +19,5 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1541413208877834252/1571025694576873522/Untitled615_20261114125505.png?ex=6af93b31&is=6af7e9b1&hm=b4b5d8692fe46d5ab3ddc46b9203b7aae428cc131fdc6fe687f958dc4ef69303&" width=415 height=300 />
+  <img src="https://cdn.discordapp.com/attachments/1541413208877834252/1571025694576873522/Untitled615_20261114125505.png?ex=6af93b31&is=6af7e9b1&hm=b4b5d8692fe46d5ab3ddc46b9203b7aae428cc131fdc6fe687f958dc4ef69303&" width=415 height=310 />
 </p>
