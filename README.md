@@ -17,3 +17,7 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316ls2mprdx6aii6pnue6l4anvae&cover_image=true&theme=novatorem&show_offline=false&background_color=280047&interchange=false&profanity=false&hide_remaster=false&bar_color=fffaba&bar_color_cover=false">
   </a>
 </p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1541413208877834252/1571025694576873522/Untitled615_20261114125505.png?ex=6af93b31&is=6af7e9b1&hm=b4b5d8692fe46d5ab3ddc46b9203b7aae428cc131fdc6fe687f958dc4ef69303&" width=415 height=300 />
+</p>
